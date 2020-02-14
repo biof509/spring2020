@@ -1,10 +1,23 @@
 Syllabus
 ========
 
+|Binder| |Colab|
+
+BIOF 509 Spring 2020
+====================
+
+This site hosts all the material for the BIOF 509 course on Applied
+Machine Learning with Python.
+
+Please take a look at the
+
+- `course website <https://biof509.github.io/>`__
+- `course syllabus <syllabus/index.rst>`__
+
 **BIOF509 - Applied Machine Learning with Python**
 
 
-**Spring 2019**
+**Spring 2020**
 
 Machine learning is a computational field that consists of techniques allowing computers to learn from data and make data-driven predictions or decisions. The ability to implement machine learning approaches appropriately and intelligently is a crucial component of data analysis. BIOF 509 provides a broad practical introduction to machine learning concepts, analysis design, and implementation.
 
@@ -30,9 +43,9 @@ Important links:
 
 * `Gitter room for announcements and assistance: <http://gitter.im/biof509/community>`_
 
-Final classes: 6th and 16th of May 2019
+Final classes: 6th and 13th of May 2020
 
-*This document is subject to revision. Last revised 14th February 2019.*
+*This document is subject to revision. Last revised 14th February 2020.*
 
 Course Description
 ------------------
@@ -158,3 +171,8 @@ Schedule
 **14 (6 May):** Project presentations and feedback. Part I.
 
 **15 (13 May):** Project presentations and feedback. Part II.
+
+.. |Binder| image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/biof509/spring2020/master?urlpath=lab
+.. |Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/biof509/spring2020/
