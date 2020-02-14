@@ -1,7 +1,7 @@
 Syllabus
 ========
 
-|Binder| |Colab|
+|Gitter| |Binder| |Colab|
 
 BIOF 509 Spring 2020
 ====================
@@ -172,6 +172,9 @@ Schedule
 
 **15 (13 May):** Project presentations and feedback. Part II.
 
+.. |Gitter| image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/biof309/community
+   :target: https://gitter.im/biof309/community
 .. |Binder| image:: https://mybinder.org/badge_logo.svg
    :target: https://mybinder.org/v2/gh/biof509/spring2020/master?urlpath=lab
 .. |Colab| image:: https://colab.research.google.com/assets/colab-badge.svg
