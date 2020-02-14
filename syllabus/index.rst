@@ -6,16 +6,12 @@ Syllabus
 BIOF 509 Spring 2020
 ====================
 
-This site hosts all the material for the BIOF 509 course on Applied
-Machine Learning with Python.
+This GitHub repository hosts all the material for the BIOF 509 course on Applied
+Machine Learning.
 
-Please take a look at the
-
-- `course website <https://biof509.github.io/>`__
-- `course syllabus <syllabus/index.rst>`__
+Please take a look at the `course website <https://biof509.github.io/>`__.
 
 **BIOF509 - Applied Machine Learning with Python**
-
 
 **Spring 2020**
 
